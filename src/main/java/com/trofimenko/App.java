@@ -11,6 +11,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println("works now");
         CamelContext context=new DefaultCamelContext();
+        System.out.println("");
 
     }
 }
